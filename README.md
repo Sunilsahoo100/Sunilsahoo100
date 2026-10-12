@@ -43,16 +43,6 @@
 
 ---
 
-## 🚀 Highlights
-
-| Where | What I did |
-|---|---|
-| **EvA** | Split a monolithic Angular app into micro-frontends with Webpack Module Federation, cutting load time by **40%** |
-| **EvA** | Optimized CI/CD pipelines, reducing deployment time by **25%** across environments |
-| **Qualibar** (intern) | Built Spring Boot checkout APIs serving **10k+ req/s** at peak, with **90%+** test coverage |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
